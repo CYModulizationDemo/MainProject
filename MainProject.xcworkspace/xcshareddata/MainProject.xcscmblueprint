@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EA2CC8BA3F390DF727974CB2E712C908EBD87580",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2B0457FBB76C29D8B340BF4E8BF47333D1C68694" : 9223372036854775807,
+    "EA2CC8BA3F390DF727974CB2E712C908EBD87580" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6E809C58-A9BD-4F01-AC55-1B9C34EAD48D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2B0457FBB76C29D8B340BF4E8BF47333D1C68694" : "AA\/",
+    "EA2CC8BA3F390DF727974CB2E712C908EBD87580" : "MainProject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MainProject",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MainProject.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:CYModulizationDemo\/AA.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2B0457FBB76C29D8B340BF4E8BF47333D1C68694"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CYModulizationDemo\/MainProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EA2CC8BA3F390DF727974CB2E712C908EBD87580"
+    }
+  ]
+}
