@@ -4,7 +4,17 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>A.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>A_Category.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>B_Category.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -27,22 +37,32 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>0C62646A6573442728D28C1CA13E1699</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>0CE37C8540E87ABF913768831B14E818</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>38B99FDF14FEDCAB8F720595CCC80EC8</key>
+		<key>6864FC8BC22DBA0BDEFF89CF7FBAAFED</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>98FA479D01ABD4F248ABEC19120BD57F</key>
+		<key>721F7DC1CAEDEF96C54D0EF010130181</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>BAE53AD0B7382177F4D30E0299A670EC</key>
+		<key>8BD559AEDB7497DC5365C2C39AC065FD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FB798B4B015AED58161DEB073B87F5D3</key>
 		<dict>
 			<key>primary</key>
 			<true/>

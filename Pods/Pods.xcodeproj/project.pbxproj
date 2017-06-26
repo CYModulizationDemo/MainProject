@@ -7,21 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0548E62F176DCD35B2E9677BA223A7B4 /* AViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 151992C6C7BD9E163EE442F1AC931B5F /* AViewController.m */; };
+		07A857ED5C655B7CB81D9A82473A8056 /* B_Category-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A094BB209B3637C2DE09FD5C596CC46 /* B_Category-dummy.m */; };
+		09F8C83011B901B8DA70FF99EC9F136C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
+		17C5490CE628B4554BEB82918FC23F4A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
+		26E327910E43AE762838BA6E92A3D702 /* HandyFrame-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 76BB0570247496F836FE220E418EF44C /* HandyFrame-dummy.m */; };
 		2B0B71FC3F8B22F174EA0394EDFDD8B9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
-		2B8B176DB77E0E8024ED545A1467390D /* UIView+LayoutMethods.h in Headers */ = {isa = PBXBuildFile; fileRef = AA2BD4E83293E25E71E3437C02E1A20E /* UIView+LayoutMethods.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		39CD3B207373CB5ED64E698FE82590F4 /* CTMediator-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B7785AD4909A5A73D9FEC5AFAB17663 /* CTMediator-dummy.m */; };
-		3CD2F9C8EEF2E50A684F88FF42277374 /* CTMediator.h in Headers */ = {isa = PBXBuildFile; fileRef = 9FDB4ECBCF8E78BCB7C2BBB9E4CBA49D /* CTMediator.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3EBD72F4F64A7DE45A88ECCC7B12FD6A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */; };
-		4355C731060DC668A71EBCBCA3435BDC /* HandyFrame-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A0A7529748B83C1FA446BCB93D72B8 /* HandyFrame-dummy.m */; };
-		4C743CB210D33428770D843D260C9AB5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
-		5CD9DA56144180C5943C9D9BE8D1203E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
-		68050F39367B9609F096B35FF704AC78 /* A_Category-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A55914E6392A1A2824515FFEB557F2EB /* A_Category-dummy.m */; };
-		6C2B3055C93BC3023D20A2163EE55B16 /* CTMediator+A.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E14E28EB31EE95BD0688D4894626ADD /* CTMediator+A.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		77D52F7731655843D0715C29632C9F99 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
-		B7A79169A394B66DE4969000F2B31284 /* CTMediator+A.m in Sources */ = {isa = PBXBuildFile; fileRef = E2899B91BECE83652B435E110E63F49A /* CTMediator+A.m */; };
-		CD846765F9F5E9ACB4B52215864AF812 /* Pods-MainProject-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 47172964DD8F27BA3130057D686932DB /* Pods-MainProject-dummy.m */; };
-		D274E160F43659FDA92C800617926694 /* UIView+LayoutMethods.m in Sources */ = {isa = PBXBuildFile; fileRef = A825A12F810CECAA24DF48A7C46D82CC /* UIView+LayoutMethods.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		EA9976BE8837E66ADA9CBB0AE2562F6D /* CTMediator.m in Sources */ = {isa = PBXBuildFile; fileRef = 14013D3E0254A66E033CBD6608017D09 /* CTMediator.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		2B5F5564C6958A8A6F14C8B61EBA4F51 /* A-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FB4782A1D7C05365CC0615C7F02037E /* A-dummy.m */; };
+		2EDF88E844047F63F0E3E30B6E379A60 /* Target_A.m in Sources */ = {isa = PBXBuildFile; fileRef = 290A432714AF915E2971BBDCA47B1BD9 /* Target_A.m */; };
+		651CD50BE09876475359D39BD2487D71 /* AViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = E9AF3631665D60831CA002D42131483B /* AViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		65C5971E5F71D08D383C4912D6736C54 /* Pods-MainProject-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 47172964DD8F27BA3130057D686932DB /* Pods-MainProject-dummy.m */; };
+		68050F39367B9609F096B35FF704AC78 /* A_Category-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EA540A3D3A9820462BAE828ACD74D9CD /* A_Category-dummy.m */; };
+		6AF35A911E6343C0F14E52FCF8424B2C /* CTMediator.h in Headers */ = {isa = PBXBuildFile; fileRef = 1B94DC770F33C85167CDE4AAAE4BD72F /* CTMediator.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6C2B3055C93BC3023D20A2163EE55B16 /* CTMediator+A.h in Headers */ = {isa = PBXBuildFile; fileRef = A478903666F2435815D6C1297BD93C90 /* CTMediator+A.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7440632AF817F7FDAE213C925CB3FBAE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
+		90C69A85F00EA6686C2FD3EAAFB0CB5E /* CTMediator-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FFF96B3A72D33B73E0E417AD3BB341DA /* CTMediator-dummy.m */; };
+		B7A79169A394B66DE4969000F2B31284 /* CTMediator+A.m in Sources */ = {isa = PBXBuildFile; fileRef = 16279190CEEC1DDF6F3932612F7B27C9 /* CTMediator+A.m */; };
+		BFCC6ECBFFC5DFE856176A78D3325353 /* UIView+LayoutMethods.h in Headers */ = {isa = PBXBuildFile; fileRef = FA51251CAB749EA861CF8846873DEEE6 /* UIView+LayoutMethods.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C022B6676C57EE747156E313D554B19B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
+		C7665D423FDC3FA65A8BBF7FEB4859F4 /* CTMediator+B.h in Headers */ = {isa = PBXBuildFile; fileRef = 389136AA4A758389D48ED102E65B9BD7 /* CTMediator+B.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CE7EB58E89921355E01C58AF5334DA8A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */; };
+		D8D5E19374B631C6D698AA68BB0AFCFD /* UIView+LayoutMethods.m in Sources */ = {isa = PBXBuildFile; fileRef = BAFEFFF6CF29C9043538648A7A4A0131 /* UIView+LayoutMethods.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		E55CEBF757F0FF48D5DB56848D36CC29 /* CTMediator+B.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A14A9E789980F95D7FD5405ECCD197A /* CTMediator+B.m */; };
+		F0BCE6D18226AA47B4F9E46A6830EDC8 /* CTMediator.m in Sources */ = {isa = PBXBuildFile; fileRef = C4B4F0A1D89DF2221A20A4DA18191225 /* CTMediator.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		F2EB096B962FD1FB6FF85A3822D33566 /* Target_A.h in Headers */ = {isa = PBXBuildFile; fileRef = B83DDC6D8BDD96183A5CD96C19AB200C /* Target_A.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F5A15CF30481069192E955F74BC457E0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,78 +39,143 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 38B99FDF14FEDCAB8F720595CCC80EC8;
+			remoteGlobalIDString = 6864FC8BC22DBA0BDEFF89CF7FBAAFED;
 			remoteInfo = CTMediator;
 		};
-		7046E05E70F8F8235C41E4278972EE05 /* PBXContainerItemProxy */ = {
+		2B950231EA68CE50F3A5C82E6D5BE5CD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BAE53AD0B7382177F4D30E0299A670EC;
+			remoteGlobalIDString = 6864FC8BC22DBA0BDEFF89CF7FBAAFED;
+			remoteInfo = CTMediator;
+		};
+		2EC48F889072865D4D28E77EC5EAC0A5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6864FC8BC22DBA0BDEFF89CF7FBAAFED;
+			remoteInfo = CTMediator;
+		};
+		43696FC3417CB655741CDAACA4E9FB32 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 721F7DC1CAEDEF96C54D0EF010130181;
+			remoteInfo = B_Category;
+		};
+		44D956F8B2FBDAB3869618F64E7B0B7A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0C62646A6573442728D28C1CA13E1699;
 			remoteInfo = HandyFrame;
 		};
-		79AB165D576B514C9079B16982CB079F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 38B99FDF14FEDCAB8F720595CCC80EC8;
-			remoteInfo = CTMediator;
-		};
-		CDA0831D5B51168AE36B62CC7A2E3036 /* PBXContainerItemProxy */ = {
+		4912EC553CDD17EB1E69C7E80050100C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 0CE37C8540E87ABF913768831B14E818;
 			remoteInfo = A_Category;
 		};
+		698CC00FB50A04FA8DA706B60034D0C7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0C62646A6573442728D28C1CA13E1699;
+			remoteInfo = HandyFrame;
+		};
+		6A7999E61FF99B260E47606F734062C0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6864FC8BC22DBA0BDEFF89CF7FBAAFED;
+			remoteInfo = CTMediator;
+		};
+		A70F08BC4014C2729F7ED65EB885A77E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FB798B4B015AED58161DEB073B87F5D3;
+			remoteInfo = A;
+		};
+		C84BFF7293044D6865A3843D30358802 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 721F7DC1CAEDEF96C54D0EF010130181;
+			remoteInfo = B_Category;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		14013D3E0254A66E033CBD6608017D09 /* CTMediator.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CTMediator.m; path = CTMediator/CTMediator/CTMediator.m; sourceTree = "<group>"; };
-		18A0A7529748B83C1FA446BCB93D72B8 /* HandyFrame-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HandyFrame-dummy.m"; sourceTree = "<group>"; };
-		1B7785AD4909A5A73D9FEC5AFAB17663 /* CTMediator-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CTMediator-dummy.m"; sourceTree = "<group>"; };
-		3F6B4D3865638C0BD8D5ECBC29BDC944 /* HandyFrame-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HandyFrame-prefix.pch"; sourceTree = "<group>"; };
+		0F26C537B8B6267DD86F00A59C691F30 /* HandyFrame.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HandyFrame.xcconfig; sourceTree = "<group>"; };
+		0FB4782A1D7C05365CC0615C7F02037E /* A-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "A-dummy.m"; sourceTree = "<group>"; };
+		14ED9FB5C37DFB09241FEEE9E0B3982C /* A_Category-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "A_Category-prefix.pch"; sourceTree = "<group>"; };
+		151992C6C7BD9E163EE442F1AC931B5F /* AViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AViewController.m; path = A/A/AViewController.m; sourceTree = "<group>"; };
+		16279190CEEC1DDF6F3932612F7B27C9 /* CTMediator+A.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "CTMediator+A.m"; path = "A_Category/A_Category/CTMediator+A.m"; sourceTree = "<group>"; };
+		1A5CE57381D51B1CB59BFABD19F0FA0D /* libB_Category.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libB_Category.a; path = libB_Category.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		1B94DC770F33C85167CDE4AAAE4BD72F /* CTMediator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CTMediator.h; path = CTMediator/CTMediator/CTMediator.h; sourceTree = "<group>"; };
+		290A432714AF915E2971BBDCA47B1BD9 /* Target_A.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = Target_A.m; path = A/A/Targets/Target_A.m; sourceTree = "<group>"; };
+		377F063F361BEE527E802FD49DBE1793 /* libA_Category.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libA_Category.a; path = libA_Category.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		389136AA4A758389D48ED102E65B9BD7 /* CTMediator+B.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CTMediator+B.h"; path = "B_Category/B_Category/CTMediator+B.h"; sourceTree = "<group>"; };
+		3AB8CDE6BC69DC2DFA6BB38827ED1B1F /* A_Category.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = A_Category.xcconfig; sourceTree = "<group>"; };
 		47172964DD8F27BA3130057D686932DB /* Pods-MainProject-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MainProject-dummy.m"; sourceTree = "<group>"; };
-		4E14E28EB31EE95BD0688D4894626ADD /* CTMediator+A.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CTMediator+A.h"; path = "A_Category/A_Category/CTMediator+A.h"; sourceTree = "<group>"; };
-		4E3C3B5B39F1A5697F19A19BFA2454C3 /* CTMediator-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CTMediator-prefix.pch"; sourceTree = "<group>"; };
-		53FCEAF938A0BAB1E04AD305219077B9 /* libA_Category.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libA_Category.a; path = libA_Category.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		581F13A91C8BEEFBB2326636F6E774FA /* A_Category.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = A_Category.xcconfig; sourceTree = "<group>"; };
-		5EF4FC0DFC8B0ECDADD898C78E562135 /* libCTMediator.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libCTMediator.a; path = libCTMediator.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		4722656D91B2CBC2949BFC7385B5F656 /* libCTMediator.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libCTMediator.a; path = libCTMediator.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		59151DAD4B6D78699E15C16984F0379A /* libPods-MainProject.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-MainProject.a"; path = "libPods-MainProject.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A094BB209B3637C2DE09FD5C596CC46 /* B_Category-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "B_Category-dummy.m"; sourceTree = "<group>"; };
+		5A14A9E789980F95D7FD5405ECCD197A /* CTMediator+B.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "CTMediator+B.m"; path = "B_Category/B_Category/CTMediator+B.m"; sourceTree = "<group>"; };
+		6164EF6C19674C098FA5757972EBF965 /* HandyFrame-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HandyFrame-prefix.pch"; sourceTree = "<group>"; };
 		6AF135B95806A1F8C982939A9EAF80C7 /* Pods-MainProject-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MainProject-frameworks.sh"; sourceTree = "<group>"; };
-		6C9DA0F72288415BB5C0262D24C3122E /* HandyFrame.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HandyFrame.xcconfig; sourceTree = "<group>"; };
-		786914A7F119E286C2318FE61667FDA0 /* CTMediator.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CTMediator.xcconfig; sourceTree = "<group>"; };
-		7E9F6C4C5DDA57BEA6CAF61B39DC4824 /* libPods-MainProject.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-MainProject.a"; path = "libPods-MainProject.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F852039A096A8D3932D8710BA272777 /* libA.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libA.a; path = libA.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		721DE06ED361FC66765204CF9C2CB1CB /* B_Category.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = B_Category.xcconfig; sourceTree = "<group>"; };
+		76BB0570247496F836FE220E418EF44C /* HandyFrame-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HandyFrame-dummy.m"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		94B3FF8C65E90EBA9F0EE8B70F35E31C /* libHandyFrame.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libHandyFrame.a; path = libHandyFrame.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C1782A30F52E3CE04B5D5D1DF36CF52 /* Pods-MainProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MainProject.release.xcconfig"; sourceTree = "<group>"; };
-		9FDB4ECBCF8E78BCB7C2BBB9E4CBA49D /* CTMediator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CTMediator.h; path = CTMediator/CTMediator/CTMediator.h; sourceTree = "<group>"; };
 		A0AF4D8795DB60CE24F41E2A0A3817BA /* Pods-MainProject-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MainProject-resources.sh"; sourceTree = "<group>"; };
-		A55914E6392A1A2824515FFEB557F2EB /* A_Category-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "A_Category-dummy.m"; sourceTree = "<group>"; };
-		A825A12F810CECAA24DF48A7C46D82CC /* UIView+LayoutMethods.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+LayoutMethods.m"; sourceTree = "<group>"; };
+		A478903666F2435815D6C1297BD93C90 /* CTMediator+A.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CTMediator+A.h"; path = "A_Category/A_Category/CTMediator+A.h"; sourceTree = "<group>"; };
 		A93D4C344CEDFE1A3818FB6E3F65B230 /* Pods-MainProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MainProject.debug.xcconfig"; sourceTree = "<group>"; };
-		AA2BD4E83293E25E71E3437C02E1A20E /* UIView+LayoutMethods.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+LayoutMethods.h"; sourceTree = "<group>"; };
+		AC76DA3F38C5BEC3BA52C097BB259A76 /* A.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = A.xcconfig; sourceTree = "<group>"; };
+		B1766E8F7392A62B651EA65AC1385DCD /* libHandyFrame.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libHandyFrame.a; path = libHandyFrame.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		B83DDC6D8BDD96183A5CD96C19AB200C /* Target_A.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Target_A.h; path = A/A/Targets/Target_A.h; sourceTree = "<group>"; };
+		B9A044D198CDADC5D9D96F751BB07425 /* A-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "A-prefix.pch"; sourceTree = "<group>"; };
+		BAFEFFF6CF29C9043538648A7A4A0131 /* UIView+LayoutMethods.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+LayoutMethods.m"; sourceTree = "<group>"; };
 		C2C436FC447C252A567E5A0522748890 /* Pods-MainProject-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MainProject-acknowledgements.plist"; sourceTree = "<group>"; };
-		CED8B65AA29A53D3B0BDD98BAEE8ED50 /* A_Category-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "A_Category-prefix.pch"; sourceTree = "<group>"; };
+		C4B4F0A1D89DF2221A20A4DA18191225 /* CTMediator.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CTMediator.m; path = CTMediator/CTMediator/CTMediator.m; sourceTree = "<group>"; };
+		D1F0E658E5390833F7C11CB2FB7F1307 /* CTMediator-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CTMediator-prefix.pch"; sourceTree = "<group>"; };
 		D28F0F569526C6B3D17408CD474262EB /* Pods-MainProject-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MainProject-acknowledgements.markdown"; sourceTree = "<group>"; };
+		D3639E89541E448BB46136E016861A12 /* CTMediator.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CTMediator.xcconfig; sourceTree = "<group>"; };
 		D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		E2899B91BECE83652B435E110E63F49A /* CTMediator+A.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "CTMediator+A.m"; path = "A_Category/A_Category/CTMediator+A.m"; sourceTree = "<group>"; };
+		E688A60B4720FE022F421FF4B522549C /* B_Category-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "B_Category-prefix.pch"; sourceTree = "<group>"; };
+		E9AF3631665D60831CA002D42131483B /* AViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AViewController.h; path = A/A/AViewController.h; sourceTree = "<group>"; };
+		EA540A3D3A9820462BAE828ACD74D9CD /* A_Category-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "A_Category-dummy.m"; sourceTree = "<group>"; };
+		FA51251CAB749EA861CF8846873DEEE6 /* UIView+LayoutMethods.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+LayoutMethods.h"; sourceTree = "<group>"; };
+		FFF96B3A72D33B73E0E417AD3BB341DA /* CTMediator-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CTMediator-dummy.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A1D31EF09AC3BD82BDBBC0D325315F86 /* Frameworks */ = {
+		799541ECA15EB6F1962A5942F52832A1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77D52F7731655843D0715C29632C9F99 /* Foundation.framework in Frameworks */,
+				F5A15CF30481069192E955F74BC457E0 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C183031443E4C565787BBB6ED33AEA68 /* Frameworks */ = {
+		8B1613C0069FE6812829DB545C9ED69F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C743CB210D33428770D843D260C9AB5 /* Foundation.framework in Frameworks */,
+				C022B6676C57EE747156E313D554B19B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ABE48BFE958C9306214FA2BDEEB93550 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				09F8C83011B901B8DA70FF99EC9F136C /* Foundation.framework in Frameworks */,
+				CE7EB58E89921355E01C58AF5334DA8A /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -112,12 +187,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EF69F431313DE5FFFBE89E40A7F31F98 /* Frameworks */ = {
+		F05F11D6BE944D9990EA6E718E747026 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5CD9DA56144180C5943C9D9BE8D1203E /* Foundation.framework in Frameworks */,
-				3EBD72F4F64A7DE45A88ECCC7B12FD6A /* UIKit.framework in Frameworks */,
+				7440632AF817F7FDAE213C925CB3FBAE /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC3F091E050B8A7C7A44C50A087AEC48 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				17C5490CE628B4554BEB82918FC23F4A /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -132,15 +214,48 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		05A7B918046665ED96073D7BB60D20C2 /* HandyFrame */ = {
+		0823540B0E742FF62BE8FAB68DC8E792 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				AA2BD4E83293E25E71E3437C02E1A20E /* UIView+LayoutMethods.h */,
-				A825A12F810CECAA24DF48A7C46D82CC /* UIView+LayoutMethods.m */,
-				66726CB37929D333F386EB3142F832E6 /* Support Files */,
+				D3639E89541E448BB46136E016861A12 /* CTMediator.xcconfig */,
+				FFF96B3A72D33B73E0E417AD3BB341DA /* CTMediator-dummy.m */,
+				D1F0E658E5390833F7C11CB2FB7F1307 /* CTMediator-prefix.pch */,
 			);
-			name = HandyFrame;
-			path = HandyFrame;
+			name = "Support Files";
+			path = "../Target Support Files/CTMediator";
+			sourceTree = "<group>";
+		};
+		0E2302BDF21D72BEF164518000A62348 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				721DE06ED361FC66765204CF9C2CB1CB /* B_Category.xcconfig */,
+				5A094BB209B3637C2DE09FD5C596CC46 /* B_Category-dummy.m */,
+				E688A60B4720FE022F421FF4B522549C /* B_Category-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/B_Category";
+			sourceTree = "<group>";
+		};
+		158CB202C6D27EE78399DD4E0D804FA7 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				AC76DA3F38C5BEC3BA52C097BB259A76 /* A.xcconfig */,
+				0FB4782A1D7C05365CC0615C7F02037E /* A-dummy.m */,
+				B9A044D198CDADC5D9D96F751BB07425 /* A-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/A";
+			sourceTree = "<group>";
+		};
+		2AC1D81704C4C4A5F0B559D313DE9523 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				0F26C537B8B6267DD86F00A59C691F30 /* HandyFrame.xcconfig */,
+				76BB0570247496F836FE220E418EF44C /* HandyFrame-dummy.m */,
+				6164EF6C19674C098FA5757972EBF965 /* HandyFrame-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/HandyFrame";
 			sourceTree = "<group>";
 		};
 		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
@@ -160,48 +275,61 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		4BC89955E616ED10E1B7919080BA64DE /* Support Files */ = {
+		5763E4B319985EC924E703763580D6CA /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				786914A7F119E286C2318FE61667FDA0 /* CTMediator.xcconfig */,
-				1B7785AD4909A5A73D9FEC5AFAB17663 /* CTMediator-dummy.m */,
-				4E3C3B5B39F1A5697F19A19BFA2454C3 /* CTMediator-prefix.pch */,
+				3AB8CDE6BC69DC2DFA6BB38827ED1B1F /* A_Category.xcconfig */,
+				EA540A3D3A9820462BAE828ACD74D9CD /* A_Category-dummy.m */,
+				14ED9FB5C37DFB09241FEEE9E0B3982C /* A_Category-prefix.pch */,
 			);
 			name = "Support Files";
-			path = "../Target Support Files/CTMediator";
+			path = "../Target Support Files/A_Category";
 			sourceTree = "<group>";
 		};
-		66726CB37929D333F386EB3142F832E6 /* Support Files */ = {
+		5F99E01EB27A9BC44316E0FAE576DDB9 /* HandyFrame */ = {
 			isa = PBXGroup;
 			children = (
-				6C9DA0F72288415BB5C0262D24C3122E /* HandyFrame.xcconfig */,
-				18A0A7529748B83C1FA446BCB93D72B8 /* HandyFrame-dummy.m */,
-				3F6B4D3865638C0BD8D5ECBC29BDC944 /* HandyFrame-prefix.pch */,
+				FA51251CAB749EA861CF8846873DEEE6 /* UIView+LayoutMethods.h */,
+				BAFEFFF6CF29C9043538648A7A4A0131 /* UIView+LayoutMethods.m */,
+				2AC1D81704C4C4A5F0B559D313DE9523 /* Support Files */,
 			);
-			name = "Support Files";
-			path = "../Target Support Files/HandyFrame";
+			name = HandyFrame;
+			path = HandyFrame;
 			sourceTree = "<group>";
 		};
-		7B371950A62C4C697DDFD07C1222635E /* CTMediator */ = {
+		6FD040D2E7D1DA67E19E1DF089257038 /* A */ = {
 			isa = PBXGroup;
 			children = (
-				9FDB4ECBCF8E78BCB7C2BBB9E4CBA49D /* CTMediator.h */,
-				14013D3E0254A66E033CBD6608017D09 /* CTMediator.m */,
-				4BC89955E616ED10E1B7919080BA64DE /* Support Files */,
+				E9AF3631665D60831CA002D42131483B /* AViewController.h */,
+				151992C6C7BD9E163EE442F1AC931B5F /* AViewController.m */,
+				B83DDC6D8BDD96183A5CD96C19AB200C /* Target_A.h */,
+				290A432714AF915E2971BBDCA47B1BD9 /* Target_A.m */,
+				158CB202C6D27EE78399DD4E0D804FA7 /* Support Files */,
 			);
-			name = CTMediator;
-			path = CTMediator;
+			name = A;
+			path = A;
 			sourceTree = "<group>";
 		};
-		7C673BB7A0AFBA60BA61DCB3890322F8 /* Products */ = {
+		7263CCEB3E4CA73E5E15750787DC2AC6 /* A_Category */ = {
 			isa = PBXGroup;
 			children = (
-				53FCEAF938A0BAB1E04AD305219077B9 /* libA_Category.a */,
-				5EF4FC0DFC8B0ECDADD898C78E562135 /* libCTMediator.a */,
-				94B3FF8C65E90EBA9F0EE8B70F35E31C /* libHandyFrame.a */,
-				7E9F6C4C5DDA57BEA6CAF61B39DC4824 /* libPods-MainProject.a */,
+				A478903666F2435815D6C1297BD93C90 /* CTMediator+A.h */,
+				16279190CEEC1DDF6F3932612F7B27C9 /* CTMediator+A.m */,
+				5763E4B319985EC924E703763580D6CA /* Support Files */,
 			);
-			name = Products;
+			name = A_Category;
+			path = A_Category;
+			sourceTree = "<group>";
+		};
+		7AA895F05D292E2D9AF282F59DFEB7BB /* B_Category */ = {
+			isa = PBXGroup;
+			children = (
+				389136AA4A758389D48ED102E65B9BD7 /* CTMediator+B.h */,
+				5A14A9E789980F95D7FD5405ECCD197A /* CTMediator+B.m */,
+				0E2302BDF21D72BEF164518000A62348 /* Support Files */,
+			);
+			name = B_Category;
+			path = B_Category;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -209,42 +337,46 @@
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
-				88F22E8279D603470329F938A833DBD8 /* Pods */,
-				7C673BB7A0AFBA60BA61DCB3890322F8 /* Products */,
+				85E27F4E68AD90AA21BFCF9338E81047 /* Pods */,
+				8994258BF645CFFB7F259B1084633AF1 /* Products */,
 				01D4213B7ED1EB5944AA6936763B4569 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		88F22E8279D603470329F938A833DBD8 /* Pods */ = {
+		8059702B679FAAAE8F00024A7511F8F3 /* CTMediator */ = {
 			isa = PBXGroup;
 			children = (
-				A47A76633FBA1111360758C3CE31ECDB /* A_Category */,
-				7B371950A62C4C697DDFD07C1222635E /* CTMediator */,
-				05A7B918046665ED96073D7BB60D20C2 /* HandyFrame */,
+				1B94DC770F33C85167CDE4AAAE4BD72F /* CTMediator.h */,
+				C4B4F0A1D89DF2221A20A4DA18191225 /* CTMediator.m */,
+				0823540B0E742FF62BE8FAB68DC8E792 /* Support Files */,
+			);
+			name = CTMediator;
+			path = CTMediator;
+			sourceTree = "<group>";
+		};
+		85E27F4E68AD90AA21BFCF9338E81047 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6FD040D2E7D1DA67E19E1DF089257038 /* A */,
+				7263CCEB3E4CA73E5E15750787DC2AC6 /* A_Category */,
+				7AA895F05D292E2D9AF282F59DFEB7BB /* B_Category */,
+				8059702B679FAAAE8F00024A7511F8F3 /* CTMediator */,
+				5F99E01EB27A9BC44316E0FAE576DDB9 /* HandyFrame */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		A47A76633FBA1111360758C3CE31ECDB /* A_Category */ = {
+		8994258BF645CFFB7F259B1084633AF1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4E14E28EB31EE95BD0688D4894626ADD /* CTMediator+A.h */,
-				E2899B91BECE83652B435E110E63F49A /* CTMediator+A.m */,
-				CE950AEF07FA90E62DE5AC85F96990B7 /* Support Files */,
+				6F852039A096A8D3932D8710BA272777 /* libA.a */,
+				377F063F361BEE527E802FD49DBE1793 /* libA_Category.a */,
+				1A5CE57381D51B1CB59BFABD19F0FA0D /* libB_Category.a */,
+				4722656D91B2CBC2949BFC7385B5F656 /* libCTMediator.a */,
+				B1766E8F7392A62B651EA65AC1385DCD /* libHandyFrame.a */,
+				59151DAD4B6D78699E15C16984F0379A /* libPods-MainProject.a */,
 			);
-			name = A_Category;
-			path = A_Category;
-			sourceTree = "<group>";
-		};
-		CE950AEF07FA90E62DE5AC85F96990B7 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				581F13A91C8BEEFBB2326636F6E774FA /* A_Category.xcconfig */,
-				A55914E6392A1A2824515FFEB557F2EB /* A_Category-dummy.m */,
-				CED8B65AA29A53D3B0BDD98BAEE8ED50 /* A_Category-prefix.pch */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/A_Category";
+			name = Products;
 			sourceTree = "<group>";
 		};
 		D16EFBB9BB01DC7BCCE18C836A01DA38 /* Pods-MainProject */ = {
@@ -265,11 +397,36 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		05B5B31A01953C2E0D9A2C478C34B6A6 /* Headers */ = {
+		2FCF5B210A4D677CBAC6718CF95FB7D0 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2B8B176DB77E0E8024ED545A1467390D /* UIView+LayoutMethods.h in Headers */,
+				C7665D423FDC3FA65A8BBF7FEB4859F4 /* CTMediator+B.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		46F3962D7BBD2B921B2ABFF8131F30E4 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6AF35A911E6343C0F14E52FCF8424B2C /* CTMediator.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A0C02FEA04D0D1AB3A5EAFF5FF57261C /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				651CD50BE09876475359D39BD2487D71 /* AViewController.h in Headers */,
+				F2EB096B962FD1FB6FF85A3822D33566 /* Target_A.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DEFBC9797286448BC67E7E9EC314ADCF /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BFCC6ECBFFC5DFE856176A78D3325353 /* UIView+LayoutMethods.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,17 +438,26 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FD6E4032BA32C6E9D5FCEE59011B3BF6 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3CD2F9C8EEF2E50A684F88FF42277374 /* CTMediator.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
+		0C62646A6573442728D28C1CA13E1699 /* HandyFrame */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8BC70337815B5AFB110E6876DFE5C01 /* Build configuration list for PBXNativeTarget "HandyFrame" */;
+			buildPhases = (
+				1BB2AD42CF02AE66E62AACB3DC0A524B /* Sources */,
+				ABE48BFE958C9306214FA2BDEEB93550 /* Frameworks */,
+				DEFBC9797286448BC67E7E9EC314ADCF /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HandyFrame;
+			productName = HandyFrame;
+			productReference = B1766E8F7392A62B651EA65AC1385DCD /* libHandyFrame.a */;
+			productType = "com.apple.product-type.library.static";
+		};
 		0CE37C8540E87ABF913768831B14E818 /* A_Category */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9B9DE878AB0A701B9E0081694E79DBBC /* Build configuration list for PBXNativeTarget "A_Category" */;
@@ -307,16 +473,16 @@
 			);
 			name = A_Category;
 			productName = A_Category;
-			productReference = 53FCEAF938A0BAB1E04AD305219077B9 /* libA_Category.a */;
+			productReference = 377F063F361BEE527E802FD49DBE1793 /* libA_Category.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		38B99FDF14FEDCAB8F720595CCC80EC8 /* CTMediator */ = {
+		6864FC8BC22DBA0BDEFF89CF7FBAAFED /* CTMediator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3A2CD8EED18615A2E410CD343D0A2DEE /* Build configuration list for PBXNativeTarget "CTMediator" */;
+			buildConfigurationList = 153AFC815839921B65D1457422E9089B /* Build configuration list for PBXNativeTarget "CTMediator" */;
 			buildPhases = (
-				DD874E09A9AA6B36F8834C1885DFED73 /* Sources */,
-				A1D31EF09AC3BD82BDBBC0D325315F86 /* Frameworks */,
-				FD6E4032BA32C6E9D5FCEE59011B3BF6 /* Headers */,
+				8F85AE271F29E4BD5CD0527013A6AA98 /* Sources */,
+				FC3F091E050B8A7C7A44C50A087AEC48 /* Frameworks */,
+				46F3962D7BBD2B921B2ABFF8131F30E4 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -324,43 +490,66 @@
 			);
 			name = CTMediator;
 			productName = CTMediator;
-			productReference = 5EF4FC0DFC8B0ECDADD898C78E562135 /* libCTMediator.a */;
+			productReference = 4722656D91B2CBC2949BFC7385B5F656 /* libCTMediator.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		98FA479D01ABD4F248ABEC19120BD57F /* Pods-MainProject */ = {
+		721F7DC1CAEDEF96C54D0EF010130181 /* B_Category */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EBED0D24249DFE80F7861B79B36E33DE /* Build configuration list for PBXNativeTarget "Pods-MainProject" */;
+			buildConfigurationList = 4FF34F567A8408F1E6A6BDDF77D3DA28 /* Build configuration list for PBXNativeTarget "B_Category" */;
 			buildPhases = (
-				FC2CF1E667BF901EB11698CB64E28871 /* Sources */,
-				C183031443E4C565787BBB6ED33AEA68 /* Frameworks */,
+				31F5C86C96FD87EDF82A26E6A8ABE5DB /* Sources */,
+				8B1613C0069FE6812829DB545C9ED69F /* Frameworks */,
+				2FCF5B210A4D677CBAC6718CF95FB7D0 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				88723403712A9AD3A7320D46AE9209E6 /* PBXTargetDependency */,
-				F1E2D7317C2B245183BEF6F0423561F3 /* PBXTargetDependency */,
-				7874CB7575F5166D499330B48E10914E /* PBXTargetDependency */,
+				8238355E67ECED588BDACD557DBD7EB4 /* PBXTargetDependency */,
+			);
+			name = B_Category;
+			productName = B_Category;
+			productReference = 1A5CE57381D51B1CB59BFABD19F0FA0D /* libB_Category.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		8BD559AEDB7497DC5365C2C39AC065FD /* Pods-MainProject */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9B35CFFC68EE85C172C245298C165B0D /* Build configuration list for PBXNativeTarget "Pods-MainProject" */;
+			buildPhases = (
+				6752D9FCD8445D67982C344FBB2F522A /* Sources */,
+				799541ECA15EB6F1962A5942F52832A1 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D2B71834ADBE0B3BDD6E0CF88F1E5AD2 /* PBXTargetDependency */,
+				8FC5A30755B4E651723CC55E800E14AA /* PBXTargetDependency */,
+				EDFF690827A87A13DCAA6F4F4A6E2C02 /* PBXTargetDependency */,
+				F69A2DBCDD76E94B32A998C459E6D603 /* PBXTargetDependency */,
+				090ECBCB6F6A5E386D9198651F72939C /* PBXTargetDependency */,
 			);
 			name = "Pods-MainProject";
 			productName = "Pods-MainProject";
-			productReference = 7E9F6C4C5DDA57BEA6CAF61B39DC4824 /* libPods-MainProject.a */;
+			productReference = 59151DAD4B6D78699E15C16984F0379A /* libPods-MainProject.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		BAE53AD0B7382177F4D30E0299A670EC /* HandyFrame */ = {
+		FB798B4B015AED58161DEB073B87F5D3 /* A */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9B08945FB2F124B45205E941B00014DF /* Build configuration list for PBXNativeTarget "HandyFrame" */;
+			buildConfigurationList = D87A9D913A0277413C177B0D08F6E332 /* Build configuration list for PBXNativeTarget "A" */;
 			buildPhases = (
-				E913FAAE82539584E01F5E3860AB6109 /* Sources */,
-				EF69F431313DE5FFFBE89E40A7F31F98 /* Frameworks */,
-				05B5B31A01953C2E0D9A2C478C34B6A6 /* Headers */,
+				5CC6968BBE68EAEBD83228C748061DD0 /* Sources */,
+				F05F11D6BE944D9990EA6E718E747026 /* Frameworks */,
+				A0C02FEA04D0D1AB3A5EAFF5FF57261C /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				EDD6B8B7853F4E6FCC4973C880468D76 /* PBXTargetDependency */,
+				E563FB511EFE5A04E999198F1BFE47D0 /* PBXTargetDependency */,
+				E359AF4D399662E514A43B53C699C527 /* PBXTargetDependency */,
 			);
-			name = HandyFrame;
-			productName = HandyFrame;
-			productReference = 94B3FF8C65E90EBA9F0EE8B70F35E31C /* libHandyFrame.a */;
+			name = A;
+			productName = A;
+			productReference = 6F852039A096A8D3932D8710BA272777 /* libA.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
@@ -380,19 +569,39 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 7C673BB7A0AFBA60BA61DCB3890322F8 /* Products */;
+			productRefGroup = 8994258BF645CFFB7F259B1084633AF1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
+				FB798B4B015AED58161DEB073B87F5D3 /* A */,
 				0CE37C8540E87ABF913768831B14E818 /* A_Category */,
-				38B99FDF14FEDCAB8F720595CCC80EC8 /* CTMediator */,
-				BAE53AD0B7382177F4D30E0299A670EC /* HandyFrame */,
-				98FA479D01ABD4F248ABEC19120BD57F /* Pods-MainProject */,
+				721F7DC1CAEDEF96C54D0EF010130181 /* B_Category */,
+				6864FC8BC22DBA0BDEFF89CF7FBAAFED /* CTMediator */,
+				0C62646A6573442728D28C1CA13E1699 /* HandyFrame */,
+				8BD559AEDB7497DC5365C2C39AC065FD /* Pods-MainProject */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
+		1BB2AD42CF02AE66E62AACB3DC0A524B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				26E327910E43AE762838BA6E92A3D702 /* HandyFrame-dummy.m in Sources */,
+				D8D5E19374B631C6D698AA68BB0AFCFD /* UIView+LayoutMethods.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		31F5C86C96FD87EDF82A26E6A8ABE5DB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07A857ED5C655B7CB81D9A82473A8056 /* B_Category-dummy.m in Sources */,
+				E55CEBF757F0FF48D5DB56848D36CC29 /* CTMediator+B.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		55A615C34C9AA5C2EA740FC6EF4FE0E9 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -402,58 +611,95 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DD874E09A9AA6B36F8834C1885DFED73 /* Sources */ = {
+		5CC6968BBE68EAEBD83228C748061DD0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				39CD3B207373CB5ED64E698FE82590F4 /* CTMediator-dummy.m in Sources */,
-				EA9976BE8837E66ADA9CBB0AE2562F6D /* CTMediator.m in Sources */,
+				2B5F5564C6958A8A6F14C8B61EBA4F51 /* A-dummy.m in Sources */,
+				0548E62F176DCD35B2E9677BA223A7B4 /* AViewController.m in Sources */,
+				2EDF88E844047F63F0E3E30B6E379A60 /* Target_A.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E913FAAE82539584E01F5E3860AB6109 /* Sources */ = {
+		6752D9FCD8445D67982C344FBB2F522A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4355C731060DC668A71EBCBCA3435BDC /* HandyFrame-dummy.m in Sources */,
-				D274E160F43659FDA92C800617926694 /* UIView+LayoutMethods.m in Sources */,
+				65C5971E5F71D08D383C4912D6736C54 /* Pods-MainProject-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FC2CF1E667BF901EB11698CB64E28871 /* Sources */ = {
+		8F85AE271F29E4BD5CD0527013A6AA98 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD846765F9F5E9ACB4B52215864AF812 /* Pods-MainProject-dummy.m in Sources */,
+				90C69A85F00EA6686C2FD3EAAFB0CB5E /* CTMediator-dummy.m in Sources */,
+				F0BCE6D18226AA47B4F9E46A6830EDC8 /* CTMediator.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		7874CB7575F5166D499330B48E10914E /* PBXTargetDependency */ = {
+		090ECBCB6F6A5E386D9198651F72939C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = HandyFrame;
-			target = BAE53AD0B7382177F4D30E0299A670EC /* HandyFrame */;
-			targetProxy = 7046E05E70F8F8235C41E4278972EE05 /* PBXContainerItemProxy */;
+			target = 0C62646A6573442728D28C1CA13E1699 /* HandyFrame */;
+			targetProxy = 698CC00FB50A04FA8DA706B60034D0C7 /* PBXContainerItemProxy */;
 		};
-		88723403712A9AD3A7320D46AE9209E6 /* PBXTargetDependency */ = {
+		8238355E67ECED588BDACD557DBD7EB4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = CTMediator;
+			target = 6864FC8BC22DBA0BDEFF89CF7FBAAFED /* CTMediator */;
+			targetProxy = 2B950231EA68CE50F3A5C82E6D5BE5CD /* PBXContainerItemProxy */;
+		};
+		8FC5A30755B4E651723CC55E800E14AA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = A_Category;
 			target = 0CE37C8540E87ABF913768831B14E818 /* A_Category */;
-			targetProxy = CDA0831D5B51168AE36B62CC7A2E3036 /* PBXContainerItemProxy */;
+			targetProxy = 4912EC553CDD17EB1E69C7E80050100C /* PBXContainerItemProxy */;
+		};
+		D2B71834ADBE0B3BDD6E0CF88F1E5AD2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = A;
+			target = FB798B4B015AED58161DEB073B87F5D3 /* A */;
+			targetProxy = A70F08BC4014C2729F7ED65EB885A77E /* PBXContainerItemProxy */;
 		};
 		E150111ACF8DBEA0112B817C06C2FDF0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = CTMediator;
-			target = 38B99FDF14FEDCAB8F720595CCC80EC8 /* CTMediator */;
+			target = 6864FC8BC22DBA0BDEFF89CF7FBAAFED /* CTMediator */;
 			targetProxy = 2A0D93BBE025997E8CDE2C76CAA371DC /* PBXContainerItemProxy */;
 		};
-		F1E2D7317C2B245183BEF6F0423561F3 /* PBXTargetDependency */ = {
+		E359AF4D399662E514A43B53C699C527 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = HandyFrame;
+			target = 0C62646A6573442728D28C1CA13E1699 /* HandyFrame */;
+			targetProxy = 44D956F8B2FBDAB3869618F64E7B0B7A /* PBXContainerItemProxy */;
+		};
+		E563FB511EFE5A04E999198F1BFE47D0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = CTMediator;
-			target = 38B99FDF14FEDCAB8F720595CCC80EC8 /* CTMediator */;
-			targetProxy = 79AB165D576B514C9079B16982CB079F /* PBXContainerItemProxy */;
+			target = 6864FC8BC22DBA0BDEFF89CF7FBAAFED /* CTMediator */;
+			targetProxy = 2EC48F889072865D4D28E77EC5EAC0A5 /* PBXContainerItemProxy */;
+		};
+		EDD6B8B7853F4E6FCC4973C880468D76 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = B_Category;
+			target = 721F7DC1CAEDEF96C54D0EF010130181 /* B_Category */;
+			targetProxy = C84BFF7293044D6865A3843D30358802 /* PBXContainerItemProxy */;
+		};
+		EDFF690827A87A13DCAA6F4F4A6E2C02 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = B_Category;
+			target = 721F7DC1CAEDEF96C54D0EF010130181 /* B_Category */;
+			targetProxy = 43696FC3417CB655741CDAACA4E9FB32 /* PBXContainerItemProxy */;
+		};
+		F69A2DBCDD76E94B32A998C459E6D603 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = CTMediator;
+			target = 6864FC8BC22DBA0BDEFF89CF7FBAAFED /* CTMediator */;
+			targetProxy = 6A7999E61FF99B260E47606F734062C0 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -506,7 +752,30 @@
 			};
 			name = Debug;
 		};
-		2039577CF0DC6E67CF99C3D1EFEA6054 /* Debug */ = {
+		1BD4C3202B6714370B9F626C9A9F0321 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0F26C537B8B6267DD86F00A59C691F30 /* HandyFrame.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/HandyFrame/HandyFrame-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		2295F5C580746CC1543D0B934DBC9697 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A93D4C344CEDFE1A3818FB6E3F65B230 /* Pods-MainProject.debug.xcconfig */;
 			buildSettings = {
@@ -529,9 +798,55 @@
 			};
 			name = Debug;
 		};
-		4A5FA8A7C0488F5A6B386AE8854979ED /* Debug */ = {
+		3E7FC0AA74B4E50F265960C6F54BCE16 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6C9DA0F72288415BB5C0262D24C3122E /* HandyFrame.xcconfig */;
+			baseConfigurationReference = D3639E89541E448BB46136E016861A12 /* CTMediator.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/CTMediator/CTMediator-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		54A7EC17EA0F1B0D918A8D251A197143 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9C1782A30F52E3CE04B5D5D1DF36CF52 /* Pods-MainProject.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		5AAA32652E0EF6FD6F698595E41FE02B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0F26C537B8B6267DD86F00A59C691F30 /* HandyFrame.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -596,32 +911,9 @@
 			};
 			name = Release;
 		};
-		761EFB8C6B16FF64F2D1CDAE134F7A2F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 786914A7F119E286C2318FE61667FDA0 /* CTMediator.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/CTMediator/CTMediator-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Debug;
-		};
 		992BE8C87B8F1543AF9095E51020DE3E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 581F13A91C8BEEFBB2326636F6E774FA /* A_Category.xcconfig */;
+			baseConfigurationReference = 3AB8CDE6BC69DC2DFA6BB38827ED1B1F /* A_Category.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -642,9 +934,9 @@
 			};
 			name = Release;
 		};
-		AB3E3BC7B2C2ACFD01BAD05144B74BB2 /* Release */ = {
+		99D770B8DEABCD1691F012080AF24368 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9C1782A30F52E3CE04B5D5D1DF36CF52 /* Pods-MainProject.release.xcconfig */;
+			baseConfigurationReference = AC76DA3F38C5BEC3BA52C097BB259A76 /* A.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -652,31 +944,8 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
-				MACH_O_TYPE = staticlib;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		B01A6B4E1DA9015FE2D133AE281BF5EB /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6C9DA0F72288415BB5C0262D24C3122E /* HandyFrame.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/HandyFrame/HandyFrame-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				GCC_PREFIX_HEADER = "Target Support Files/A/A-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -687,10 +956,33 @@
 				SKIP_INSTALL = YES;
 			};
 			name = Release;
+		};
+		9FF9D5B012DC305BF5AF6057055EDA94 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AC76DA3F38C5BEC3BA52C097BB259A76 /* A.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/A/A-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
 		};
 		C0D496C93EA661E22F4519F3622FA34F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 581F13A91C8BEEFBB2326636F6E774FA /* A_Category.xcconfig */;
+			baseConfigurationReference = 3AB8CDE6BC69DC2DFA6BB38827ED1B1F /* A_Category.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -711,9 +1003,32 @@
 			};
 			name = Debug;
 		};
-		E45F0A4730359562EFD8867D4117C2D7 /* Release */ = {
+		E58BBF2A060E1A001789F4C79B0B9495 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 786914A7F119E286C2318FE61667FDA0 /* CTMediator.xcconfig */;
+			baseConfigurationReference = 721DE06ED361FC66765204CF9C2CB1CB /* B_Category.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/B_Category/B_Category-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		EB502452E8885FA3D0983AB09228FA53 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D3639E89541E448BB46136E016861A12 /* CTMediator.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -723,6 +1038,29 @@
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/CTMediator/CTMediator-prefix.pch";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		F2D1B5316E9E17934F75B75201BBB8EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 721DE06ED361FC66765204CF9C2CB1CB /* B_Category.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/B_Category/B_Category-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -737,6 +1075,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		153AFC815839921B65D1457422E9089B /* Build configuration list for PBXNativeTarget "CTMediator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3E7FC0AA74B4E50F265960C6F54BCE16 /* Debug */,
+				EB502452E8885FA3D0983AB09228FA53 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -746,20 +1093,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3A2CD8EED18615A2E410CD343D0A2DEE /* Build configuration list for PBXNativeTarget "CTMediator" */ = {
+		4FF34F567A8408F1E6A6BDDF77D3DA28 /* Build configuration list for PBXNativeTarget "B_Category" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				761EFB8C6B16FF64F2D1CDAE134F7A2F /* Debug */,
-				E45F0A4730359562EFD8867D4117C2D7 /* Release */,
+				E58BBF2A060E1A001789F4C79B0B9495 /* Debug */,
+				F2D1B5316E9E17934F75B75201BBB8EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9B08945FB2F124B45205E941B00014DF /* Build configuration list for PBXNativeTarget "HandyFrame" */ = {
+		9B35CFFC68EE85C172C245298C165B0D /* Build configuration list for PBXNativeTarget "Pods-MainProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4A5FA8A7C0488F5A6B386AE8854979ED /* Debug */,
-				B01A6B4E1DA9015FE2D133AE281BF5EB /* Release */,
+				2295F5C580746CC1543D0B934DBC9697 /* Debug */,
+				54A7EC17EA0F1B0D918A8D251A197143 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -773,11 +1120,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EBED0D24249DFE80F7861B79B36E33DE /* Build configuration list for PBXNativeTarget "Pods-MainProject" */ = {
+		D87A9D913A0277413C177B0D08F6E332 /* Build configuration list for PBXNativeTarget "A" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2039577CF0DC6E67CF99C3D1EFEA6054 /* Debug */,
-				AB3E3BC7B2C2ACFD01BAD05144B74BB2 /* Release */,
+				9FF9D5B012DC305BF5AF6057055EDA94 /* Debug */,
+				99D770B8DEABCD1691F012080AF24368 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8BC70337815B5AFB110E6876DFE5C01 /* Build configuration list for PBXNativeTarget "HandyFrame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AAA32652E0EF6FD6F698595E41FE02B /* Debug */,
+				1BD4C3202B6714370B9F626C9A9F0321 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

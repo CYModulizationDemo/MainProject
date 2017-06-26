@@ -1,18 +1,26 @@
 PODS:
+  - A (1.0.0):
+    - B_Category
+    - HandyFrame
   - A_Category (2.0.0):
+    - CTMediator
+  - B_Category (2.0.0):
     - CTMediator
   - CTMediator (6)
   - HandyFrame (1.1.3)
 
 DEPENDENCIES:
+  - A (~> 1.0.0)
   - A_Category
   - HandyFrame
 
 SPEC CHECKSUMS:
+  A: 78e8e4509af3ad93172ba91c1634cb795000f8dc
   A_Category: 05cc99f7efd204f6c7af8f91ca37d3b7f1ab7046
+  B_Category: 68f9925e5f06005f6b64cb3951b9171ccd122ed8
   CTMediator: 334b9eaab167dc41868106b380a2a99fddd26e48
   HandyFrame: 5fef3c197c383332d7d5c838b3f7a85ce2f8f9cc
 
-PODFILE CHECKSUM: 4eb82580620633b6fd7c71d69a2242e8d50a961f
+PODFILE CHECKSUM: 366656aa33a6af74d558cf797274cf48b68351d4
 
 COCOAPODS: 1.2.1

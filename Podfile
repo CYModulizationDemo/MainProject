@@ -12,5 +12,6 @@ target 'MainProject' do
  pod 'HandyFrame'
  pod 'A_Category'
  pod 'A', '~> 1.0.0'
+ #pod 'AA', :path => '../AA'
 
 end
